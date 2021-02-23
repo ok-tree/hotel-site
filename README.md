@@ -18,4 +18,4 @@ skill
 
 link
 -------------
-<a href="http://13.209.67.26/" target="_blank">-웹사이트-</a>
+<a href="http://13.209.67.26/" target="_blank"><del>웹사이트</del></a>
